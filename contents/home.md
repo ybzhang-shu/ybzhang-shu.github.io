@@ -1,6 +1,6 @@
 
 
-[![ybzhang-shu](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/ybzhang-shu)
+[![ybzhang-shu](https://img.shields.io/badge/Yibo_Zhang-SHU-yellow)](https://github.com/ybzhang-shu)
 
 He is currently an Associate Professor, in the Department of Automation, School of Mechatronic Engineering and Automation at Shanghai University.
 
